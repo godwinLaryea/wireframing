@@ -44,7 +44,17 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 
 ## Wireframing Tools
 There are several wireframing tools available, most of which use the same underlying concepts. Figma is one of the great wireframing tools.
-Creating your wireframes in Figma will allow you to easily share them and make sure your team has access to your latest thinking as you iterate.Your team can leave comments right on the file so you can easily get feedback and field questions.
+Creating your wireframes in Figma will allow you to easily share them and make sure your team has access to your latest thinking as you iterate.Your team can leave comments right on the file so you can easily get feedback and field questions. Other Tools include:
+- Balsamiq
+
+- UXPin
+ 
+- Adobe XD
+
+- Sketch
+
 
 ## Benefits Of Wireframing from Software Engineering Perspective
-Wireframing is an important part of the design process as it serves as a communication tool among team members, clients, and stakeholders, ensuring everyone is on the same page regarding the design and functionality. It also acts as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements. By Wireframing, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
+- Wireframing is an important part of the design process as it serves as a communication tool among team members, clients, and stakeholders, ensuring everyone is on the same page regarding the design and functionality.
+- It also acts as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements.
+- By Wireframing, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
