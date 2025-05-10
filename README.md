@@ -39,7 +39,10 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
   
 - High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
 
-### The type of figma in the figma mockup for our airbnb project is a high-fidelity wireframe because it includes more specific layout and design elements and high end images which is more or less the final version
+### Airbnb Clone Project
+[Airbnb Mockup](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=eP4jiQLHvCKKkUHV-0)
+
+The type of Wireframing in the figma mockup for our airbnb project is a high-fidelity wireframe because it includes more specific layout and design elements and high end images which is more or less the final version
 
 
 ## Wireframing Tools
